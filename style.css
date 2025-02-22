@@ -1,0 +1,44 @@
+body
+{
+    
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+}
+#score{
+    display: inline-block;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Poppins', sans-serif;
+}
+
+div{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+   
+}
+
+
+canvas {
+    display: block;
+    border-radius: 15px;
+    margin: 0 auto;
+    background-color: black;
+    
+    
+}
+#s{
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Poppins', sans-serif;
+
+}
+
